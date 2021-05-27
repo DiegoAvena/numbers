@@ -1,3 +1,7 @@
+![numbersScreenShot](https://user-images.githubusercontent.com/43594702/119896208-902b0180-bef3-11eb-86b6-f3cfc15d8e70.png)
+
+[See it in action!](https://www.youtube.com/watch?v=R53cIyaeeGs)
+
 ## Identifying Information: 
 1. Name: Diego Avena
 2. Email: avena@chapman.edu
