@@ -1,9 +1,6 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
-5. Assignment: numbers 
+1. Name: Diego Avena
+2. Email: avena@chapman.edu
 
 ## Application Purpose
 A bash script named “numbers.sh” that will 
